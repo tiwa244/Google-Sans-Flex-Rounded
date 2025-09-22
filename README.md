@@ -8,9 +8,8 @@ there's no copyright you can use it everywhere free.
 if you wanna use this font you i recommend you use it as a primary font if you making a app dahh idc what you gonna put this font on 
 bye bye bahhh
 # Git Download #
-```
 https://github.com/git-for-windows/git/releases/download/v2.51.0.windows.1/Git-2.51.0-64-bit.exe
-```
+
 # Download #
 Requirements : must have git installed.
 Recommend Location : in download or smth
