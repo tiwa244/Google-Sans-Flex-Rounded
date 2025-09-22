@@ -9,6 +9,9 @@ if you wanna use this font you i recommend you use it as a primary font if you m
 bye bye bahhh
 # Git Download #
 [![Download Git 2.51.0](https://img.shields.io/badge/Download-Git%202.51.0-238636?style=for-the-badge&logo=git&logoColor=white)](https://github.com/git-for-windows/git/releases/download/v2.51.0.windows.1/Git-2.51.0-64-bit.exe)
+For ARM
+[![Download Git 2.51.0 ARM64](https://img.shields.io/badge/Download-Git%202.51.0%20ARM64-E11D21?style=for-the-badge&logo=git&logoColor=white)](https://github.com/git-for-windows/git/releases/download/v2.51.0.windows.1/Git-2.51.0-arm64.exe)
+
 # Download #
 Requirements : must have git installed.
 Recommend Location : in download or smth
