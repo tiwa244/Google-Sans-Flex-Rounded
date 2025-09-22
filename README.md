@@ -22,4 +22,4 @@ git clone https://github.com/tiwa244/Google-Sans-Flex-Rounded.git
 ```
 # CREDITS #
 Everything - opensource@google.com
-Mod - @LozeroDev
+Mod - @LozeroDev@gmail.com
