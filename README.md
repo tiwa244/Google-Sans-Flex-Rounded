@@ -15,5 +15,5 @@ bye bye bahhh
 Requirements : must have git installed.
 Recommend Location : in download or smth
 ```
-https://github.com/tiwa244/Google-Sans-Flex-Rounded.git
+git clone https://github.com/tiwa244/Google-Sans-Flex-Rounded.git
 ```
