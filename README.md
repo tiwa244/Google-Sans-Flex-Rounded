@@ -4,6 +4,7 @@ google sans flex but its rounded and has five weights
 so it's basically a material 3 expressive font i used Google Sans Flex use fonttools to make it Round to 100 yea.
 # Copyright # 
 there's no copyright you can use it everywhere free.
+Btw as soon as one of google staff see this it would be a dmca taken down so use it as fast as you can
 # Suggestions to use in #
 if you wanna use this font you i recommend you use it as a primary font if you making a app dahh idc what you gonna put this font on 
 bye bye bahhh
